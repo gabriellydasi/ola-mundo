@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1:hover{
+    color: rgb(255, 179, 0);
+}
+
+h1{
+    transition: all 1s;
+}
